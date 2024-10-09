@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Bookmark organiser chrome extension.<br>🤝 I’m looking for increasing meaningful connection and contributions in three.js ideas.<br>🌱 I’m currently learning three.js and spline utility.<br><br>⚡ Fun fact : Ever used `contenteditable` attribute ?. You can add this to any HTML element to make it editable directly within the browser. It turns that part of the page into a mini text editor without needing any JavaScript.
+🔭 I’m currently working on a Bookmark organiser chrome extension.<br>🤝 I’m looking for increasing meaningful connection and contributions in three.js ideas.<br>🌱 I’m currently learning three.js and blender utility.<br><br>⚡ Fun fact : Ever used `contenteditable` attribute ?. You can add this to any HTML element to make it editable directly within the browser. It turns that part of the page into a mini text editor without needing any JavaScript.
 
 
 ## 🌐 Socials:
